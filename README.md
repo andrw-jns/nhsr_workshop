@@ -1,2 +1,2 @@
 # nhsr_workshop
-Temporary repository to store data files
+Temporary repository for EDA data files
