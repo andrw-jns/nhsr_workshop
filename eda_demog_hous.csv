@@ -1,0 +1,39 @@
+district,popn,deprivation,water,houses,house_val
+Belgrave,37918,0.018,Battersea,3783,267452
+Bermondsey,50900,0.089,Battersea,6663,155175
+Bethnal Green,87263,0.136,New River,11782,109937
+Camberwell,51704,0.038,Battersea,6843,180418
+Chelsea,53379,0.067,Battersea,5648,169679
+Clerkenwell,63499,0.057,New River,6946,235324
+East London,43495,0.088,New River,4796,191558
+Greenwich,95954,0.081,New River,11995,274478
+Hackney,55152,0.074,New River,7192,186415
+"Hammersmith, Brompton, Kensington and Fulham",68425,0.039,Kew,7483,251925
+Hampstead,11572,0.045,Kew,1411,58743
+Hanover Square & Mayfair,33196,0.018,Kew,3847,611238
+Holborn,46134,0.034,New River,4603,261970
+Islington,86761,0.03,New River,8508,307286
+Lambeth,134768,0.072,Battersea,17791,510341
+Lewisham,32299,0.049,New River,3966,111357
+London City,55816,0.056,New River,7921,990008
+Marylebone,153960,0.043,Kew,14169,1050664
+Newington,63074,0.075,Battersea,9370,207460
+Paddington,41267,0.039,Kew,3479,236263
+Poplar,44103,0.06,New River,5066,229751
+Rotherhithe,17208,0.143,Battersea,2420,59072
+Shoreditch,104122,0.082,New River,12642,259596
+St George East,47334,0.08,New River,5985,196942
+St George Southwark,45500,0.134,Battersea,5674,107821
+St Giles,54062,0.052,New River,4959,306439
+St James Westminster,36426,0.023,Kew,3590,474528
+St Luke,53234,0.081,New River,6385,186256
+St Martin-in-the-Fields,24557,0.039,New River,2439,297665
+St Olave,19278,0.079,Battersea,2523,90583
+St Pancras,160122,0.042,New River,14766,633974
+St Saviour,35227,0.076,Battersea,4659,174732
+Stepney,106988,0.066,New River,14364,301888
+Strand,44254,0.047,New River,4327,321999
+Wandsworth,48446,0.072,Battersea,6459,193395
+West London,28829,0.067,New River,3010,217562
+Westminster,64109,0.039,Battersea,6439,238164
+Whitechapel,78590,0.075,New River,8834,243657
