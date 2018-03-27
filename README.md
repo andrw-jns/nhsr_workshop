@@ -1,6 +1,8 @@
 # nhsr_workshop
 
-### EDA Instructions | A real data set | Find the mystery disease "x"
+## Real-life data | Find the mystery disease "x"
+
+### Instructions
 
 1. Download the files as a zip. Extract them and import them into R.
 
