@@ -1,4 +1,4 @@
-# NHSR_WORKSHOP
+# NHS-R Workshop
 
 ## 1. Repository for workshop materials
 
