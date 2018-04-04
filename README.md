@@ -1,10 +1,10 @@
-# nhsr_workshop
+# NHSR_WORKSHOP
 
-## Repository for workshop materials
+## 1. Repository for workshop materials
 
 
 
-## EDA: Real-life data | Identify the mystery disease "x"
+## 2. EDA: Real-life data | Identify the mystery disease "x"
 
 ### Instructions
 
